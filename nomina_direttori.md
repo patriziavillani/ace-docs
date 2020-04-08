@@ -10,188 +10,75 @@ Telefonata con Annamaria Randazzo (03/04/2020)
 
  
 
-## **ELENCO NOMINE**
-
-·     **01   DIRETTORE (06    DIRETTORE FACENTE FUNZIONE, 07 DIRETTORE AD INTERIM, 11 DIRETTORE GENERALE F.F.)**
-
-o  **Istituto**
-
-o  **Dipartimento**
-
-o  **Direttore Generale**
-
-o  **Direttore Centrale**
-
-·     **04   RESPONSABILE**
-
-o  **sedi secondarie di Istituto** (il responsabile dura 2 anni e Il nuovo direttore di Istituto appena insediato deve fare il provvedimento della nomina per i responsabili
-
-o  **uffici non dirigenziali** … vedi Fusco e Tilde
-
-·     **05   DIRIGENTE (03 DIRIGENTE AD INTERIM (GIÀ AD INTERIM FINO AL 04 03 2009), 46 DIRIGENTE ART. 19 DLGS 165/2001, XX DIRIGENTE F.F. (??????)**
-
-o  **SAC** (Deve essere un amministrativo e non tecnologo - dirigenteArt19 (SAC quando un dirigente non è amministrativo ma del ramo tecnico –es. Orrico e Lancia - al massimo 3 nella sede centrale)
-
-·     **09   DELEGATO**
-
-o  Bisogna specificare bene che tipo di delega (missioni, attestati, acquisti con cifra, ecc.. (ed Gabrielli concorsi ha delegato Mariano di Giulio)
-
- 
-
- 
-
- 
-
-**REGOLAMENTO DEL PERSONALE**
-
-**Art. 15              (Nomina dei dirigenti e conferimento dell****’incarico)**
-
- 
-
-**DECRETO ROF 12/03/2019**
-
-**Articolo 5           (Procedura di selezione del direttore di dipartimento)**
-
-**Articolo 8           (Modalità di nomina del consiglio scientifico di dipartimento)**
-
-**Articolo 10          (Procedura di selezione del direttore di istituto)**
-
-**Articolo 16          (Presidente dell'area territoriale di ricerca)**
-
-**Articolo 17          (Comitato di area)**
-
-**Articolo 19-bis      (Protezione dei dati personali)**
-
- 
-
- 
-
-**
-** 
-
- 
-
-## **PASSI**
-
-**1.**    **GENERAZIONE PROVVEDIMENTO DI NOMINA** 
-
-o  Per DIRETTORE GENERALE e DIRIGENTI il provvedimento viene formulato dalla DIREZIONE GENERALE (Maria Reale, Cesare Gigliozzi)
-
-o  Per i DIRETTORI e RESPONSABILI DIPARTIMENTI e ISTITUTI il provvedimento viene formulato da UNITA CONTRATTI DI LAVORO (. Barbara Del Vecchio e Pisciotta Maria)
-
- 
-
-**2.**    **FIRMA E DISTRIBUZIONE PROVVEDIMENTO**
-
-o  Il DG firma il provvedimento
-
-o  Cesare Gigliozzi lo carica su Gestione Istituti (procedura di Angelo)
-
-o  Il provvedimento appare sull’Albo * da quel momento ha **valore amministrativo** per l’Ente
-
-o  Annamaria Randazzo (UFFICIO GESTIONE RISORSE UMANE) verifica la presenza di un documento di nomina all’interno dei provvedimenti presenti nell’albo * da quel momento ha **valore informatico** per l’Ente
-
- 
-
-**3.**    **DATI INSERITI**
-
-La procedura di inserimento in NSIP da parte di Annamaria Randazzo (UFFICIO GESTIONE RISORSE UMANE) è la stessa per tutte le nomine:
-
-**Inserimento in APS9 (Tabella PEG NOMINA DIR)**
-
-o  **Nr Codice sede** (il Direttore viene inserito in tutte le sedi. Se nella sede è presente il responsabile, viene lasciato il responsabile anche se il nuovo direttore dovrebbe fare un nuovo provvedimento di nomina)
-
-o  **Decorrenza (\** deve essere coperto tutto l’arco temporale, non ci devono essere vuoti**). La data fine non viene inserita ma messa solo a chiusura di rapporto con l’ente o fine mandato
-
-o  **Nome e Cognome**
-
-o  **Matricola (La matricola dovrebbe già essere stata inserita Mirella Piellucci (FFICIO GESTIONE RISORSE UMANE)** che si coordina con l’Ufficio Contratti di Lavoro)
-
-o  **Tipologia (direttore, delegato, responsabile …)**
-
-§ Per il **Direttore F.F.** non può essere nominato più di 2 mandati (4+4 anni) dopodiché deve essere inserito il più anziano
-
-§ Per il **Delegato** occorre individuare un elenco delle deleghe
-
- 
-
- 
-
- 
-
-## **PROBLEMATICHE**
-
-\1.    **BISOGNA INSERIRE UN FLAG CHE ATTESTI CHE IL DIRETTORE ABBIA FIRMATO IL CONTRATTO (**potrebbe capitare che un direttore/dirigente firmi un documento senza prima aver firmato il contratto – che valore avrebbe?)
-
-**2.**    **VERIFICA DELLE COPERTURE TEMPORALI (**i ruoli non devono mai essere scoperti**)**
-
-\3.    **ELENCO DELEGHE** (Bisogna stilare un elenco di tipi di delega es. missioni, attestati acquisti)
-
-\4.    **COMUNICAZIONE FINE RAPPORTO** (ogni fine rapporto (PENSIONE / DIMISSIONE / DECESSO) di una persona legata a questo ruolo deve essere comunicato dall’ufficio preposto (ufficio previdenziale??) alla Randazzo in modo che possa mettere la fine data.
-
-\5.    **CHIUSURA ENTITA’ ORGANIZZATIVA** Quando viene cessata un’entità organizzativa automaticamente si dovrebbero chiudere le date di validità dei direttori e responsabili
-
- 
-
-**
-** 
-
- 
-
-## **ATTORI**
-
-\1.    **NOMINA DIRETTORE GENERARE, DIRIGENTE**
-
-630002 - DG SEGR.PARTICOLARE DIRETTORE GEN. 
-
-Cesare Gigliozzi
-
-630000 - DIREZIONE GENERALE
-
-Maria Reale
-
- 
-
- 
-
-\2.    **NOMINA DIRETTORE ISTITUTO**
-
-Uffici e strutture della Direzione Centrale Gestione delle Risorse
-
-Dott.ssa Annalisa Gabrielli
-
-**651500 - DCGR UNITA CONTRATTI DI LAVORO (DCGRU)**
-
-**Responsabile Avv. Barbara Del Vecchio** 
-
-**Pisciotta Maria**
-
- 
-
- 
-
-**3.**    **IMMATRICOLAZIONE e INSERIMENTO NSIP**
-
-651100 - DCGR UFFICIO GESTIONE RISORSE UMANE (UGRU)
-
-**Dirigente   Dott. Pierluigi Raimondi**
-
-**Inserimento Matricola Mirella Piellucci (651100 - DCGR UFFICIO GESTIONE RISORSE UMANE)**
-
-**Inserimento Nsip      Randazzo Anna Maria (651100 - DCGR UFFICIO GESTIONE RISORSE UMANE)** 
-
- 
-
-**
-** 
-
- 
-
 ## **RUOLI ISTITUZIONALI**
 
  
 
+**NSIP (fornito da Patrizia)**
+
+**SOTTO LA GESTIONE DELLA DIREZIONE CENTRALE -> ALBO**
+
+·     01    DIRETTORE (Direttore Generale a firma del presidente e Direttore Centrale)
+
+·     06    DIRETTORE FACENTE FUNZIONE
+
+·     07    DIRETTORE AD INTERIM
+
+·     05    DIRIGENTE (SAC Deve essere un amministrativo e non tecnologo)
+
+·     03    DIRIGENTE AD INTERIM (GIÀ AD INTERIM FINO AL 04 03 2009)
+
+·     46    DIRIGENTE ART. 19 DLGS 165/2001 dirigenteArt19 (SAC quando un dirigente non è amministrativo ma del ramo tecnico – Lancia - al massimo 3 nella sede centrale)
+
+·     **XX    DIRIGENTE F.F. (OK)**          (è a firma del Presidente)
+
+·     04    RESPONSABILE (uffici non dirigenziali … vedi Fusco e Tilde – il responsabile dura 2 anni per gli istituti. Il nuovo direttore appena insediato deve fare il provvedimento della nomina)
+
+·     09    DELEGATO (per ruoli standard: missioni, acquisti, Attestati per il resto a seconda delle competenze dell’ufficio)
+
+·     **XX    RESPONSABILE DEL TRATTAMENTO DATI PERSONALI (si fa sempre congiuntamente alla nomina del dirigente/direttore)**
+
+
+
+**SOTTO LA GESTIONE DELL’UFFICIO CONTRATTI**
+
+·     01    DIRETTORE (istituto)
+
+·     04    RESPONSABILE (solo sedi secondarie)
+
+·     06    DIRETTORE FACENTE FUNZIONE
+
+·     07    DIRETTORE AD INTERIM
+
+·     09    DELEGATO (per ruoli standard: missioni, acquisti, Attestati per il resto a seconda delle competenze dell’Istituto)
+
+·     **XX    DIRIGENTE F.F. (OK)** (è a firma del Presidente)
+
+·     **XX    RESPONSABILE DEL TRATTAMENTO DATI PERSONALI (si fa sempre congiuntamente alla nomina del dirigente/direttore)**
+
+
+
+**SOTTO LA GESTIONE DEGLI ITITUTI**
+
+·     **XX    CONSIGLIO SCIENTIFICO DI DIPARTIMENTO (le fa il direttore di dipartimento)**
+
+·     **XX    RESPONSABILE AMMINISTRATIVO (le fa il direttore di dipartimento)**
+
+·     **XX    CONTABLE AMMINISTRATIVO (le fa il direttore di dipartimento)**
+
+
+
+**SOTTO LA GESTIONE DELLE AREE**
+
+·     **XX    PRESIDENTE DI AREA (AREA)**
+
+
+
+ 
+
 **ACE**
+
+**RUOLI ISTITUZIONALI**
 
 ·     ID: 21 Direttore direttore
 
@@ -213,33 +100,23 @@ Dott.ssa Annalisa Gabrielli
 
  
 
-**NSIP (fornito da Patrizia)**
+·     **XX    DIRIGENTE F.F. (OK)**
 
-·     01    DIRETTORE (istituto / Dipartimento e Direttore Generale Centrale e )
+·     **XX    RESPONSABILE DEL TRATTAMENTO DATI PERSONALI**
 
-·     03    DIRIGENTE AD INTERIM (GIÀ AD INTERIM FINO AL 04 03 2009)
+ 
 
-·     04    RESPONSABILE               (solo sedi secondarie, e uffici non dirigenziali … vedi Fusco e Tilde – il responsabile dura 2 anni per gli istituti. Il nuovo direttore appena insediato deve fare il provvedimento della nomina)
+·     **XX    CONSIGLIO SCIENTIFICO DI DIPARTIMENTO**
 
-·     05    DIRIGENTE                   (SAC Deve essere un amministrativo e non tecnologo)
+·     **XX    RESPONSABILE AMMINISTRATIVO** 
 
-·     06    DIRETTORE FACENTE FUNZIONE
+·     **XX    CONTABLE AMMINISTRATIVO** 
 
-·     07    DIRETTORE AD INTERIM
+ 
 
-·     09    DELEGATO                   (ed Gabrielli concorsi ha delegato Mariano di giulio)
+·     **XX    PRESIDENTE DI AREA (AREA)**
 
-·     11    DIRETTORE GENERALE F.F.  
-
-·     46    DIRIGENTE ART. 19 DLGS 165/2001 dirigenteArt19 (SAC quando un dirigente non è amministrativo ma del ramo tecnico – Orrico e Lancia - al massimo 3 nella sede centrale)
-
-·     **XX    DIRIGENTE F.F. (??????)**
-
-·     **XX    CONSIGLIO SCIENTIFICO DI DIPARTIMENTO (??????)**
-
-·     **XX    PRESIDENTE DI AREA (??????)**
-
-·     **XX    RESPONSABILE DEL TRATTAMENTO DATI PERSONALI (??????)**
+ 
 
  
 
@@ -257,9 +134,9 @@ Dott.ssa Annalisa Gabrielli
 
 ·     **41      Ufficio         UFF**
 
-·     **42      Ufficio non dirigenziale** 
+·     **42      Ufficio non dirigenziale                 deve essere sostituito da UNITA’**
 
-·     **43      Struttura di particolare rilievo**
+·     **43      Struttura di particolare rilievo          deve essere sostituito da UNITA’**
 
 ·     **44      Sede di lavoro         SL**
 
@@ -269,18 +146,142 @@ Dott.ssa Annalisa Gabrielli
 
  
 
- 
+## **PASSI**
 
-**
-** 
+**I provvedimenti di nomina vengono generati dalla Direzione Generale per la SAC e dall’ufficio Contratti per gli Istituti.**
 
- 
+**Una volta firmati dal DG o Presidente (a seconda dei casi) Gigliozzi provvede a caricarli sull’ALBO tramite Gestione Istituti e ad informare l’URP per la pubblicazione sul Sito Istituzionale.**
 
-**GESTTIONE ISTITUTI** 
-
-**(Angelo telefonata 02/04/2020)**
+**Da quel momento l’informazione della nomina è ufficiale ed è reperibile sull’Albo sia per la parte Amministrativa che Contabile.**
 
  
+
+**1.**    **GENERAZIONE PROVVEDIMENTO DI NOMINA** 
+
+o  Per DIRETTORE GENERALE e DIRIGENTI il provvedimento viene formulato dalla DIREZIONE GENERALE (Maria Reale, Cesare Gigliozzi)
+
+o  Per i DIRETTORI e RESPONSABILI DIPARTIMENTI e ISTITUTI il provvedimento viene formulato da UNITA CONTRATTI DI LAVORO (. Barbara Del Vecchio e Pisciotta Maria)
+
+ 
+
+**2.**    **FIRMA E DISTRIBUZIONE PROVVEDIMENTO**
+
+o  Il DG firma il provvedimento
+
+o  Cesare Gigliozzi lo carica su Gestione Istituti (procedura di Angelo) indicando il legame di persone e uffici collegati a quel provvedimento (per la visualizzazione del documento nell’aera personale o di struttura in Gestione Istituti)
+
+o  Il provvedimento appare sull’Albo * da quel momento ha **valore amministrativo** per l’Ente
+
+o  Annamaria Randazzo (UFFICIO GESTIONE RISORSE UMANE) verifica la presenza di un documento di nomina all’interno dei provvedimenti presenti nell’albo * da quel momento ha **valore informatico** per l’Ente.
+
+o  Gigliozzi invia anche all’**URP** per la **PUBBLICAZIONE SUL SITO ISTITUZIONALE**
+
+ 
+
+**3.**    **DATI INSERITI**
+
+La procedura di inserimento in NSIP da parte di Annamaria Randazzo (UFFICIO GESTIONE RISORSE UMANE) è la stessa per tutte le nomine:
+
+**Inserimento in APS9 (Tabella PEG NOMINA DIR)**
+
+o  **Nr Codice sede** (il Direttore viene inserito in tutte le sedi. Se nella sede è presente il responsabile, viene lasciato il responsabile anche se il nuovo direttore dovrebbe fare un nuovo provvedimento di nomina)
+
+o  **Decorrenza (\** deve essere coperto tutto l’arco temporale, non ci devono essere vuoti**). La data fine non viene inserita ma messa solo a chiusura di rapporto con l’ente o fine mandato
+
+​	o  **Nome e Cognome**
+
+​	o  **Matricola (La matricola dovrebbe già essere stata inserita Mirella Piellucci (FFICIO GESTIONE RISORSE UMANE)** che si coordina con l’Ufficio Contratti di Lavoro)
+
+​	o  **Tipologia (direttore, delegato, responsabile …)**
+
+​			§ Per il **Direttore F.F.** non può essere nominato più di 2 mandati (4+4 anni) dopodiché deve essere inserito il più anziano
+
+​			§ Per il **Delegato** occorre individuare un elenco delle deleghe
+
+ 
+
+## **PROBLEMATICHE**
+
+- **BISOGNA INSERIRE UN FLAG CHE ATTESTI CHE IL DIRETTORE ABBIA FIRMATO IL CONTRATTO (**potrebbe capitare che un direttore/dirigente firmi un documento senza prima aver firmato il contratto – che valore avrebbe?)
+- **VERIFICA DELLE COPERTURE TEMPORALI (**i ruoli non devono mai essere scoperti**)**
+- **ELENCO DELEGHE** (Bisogna stilare un elenco di tipi di delega es. missioni, attestati acquisti)
+- **COMUNICAZIONE FINE RAPPORTO** (ogni fine rapporto (PENSIONE / DIMISSIONE / DECESSO) di una persona legata a questo ruolo deve essere comunicato dall’ufficio preposto (ufficio previdenziale??) alla Randazzo in modo che possa mettere la fine data.
+- **CHIUSURA ENTITA’ ORGANIZZATIVA** Quando viene cessata un’entità organizzativa automaticamente si dovrebbero chiudere le date di validità dei direttori e responsabili
+-  
+
+## **ATTORI**
+
+**1.** **NOMINA DIRETTORE GENERARE, DIRIGENTE**
+
+630002 - DG SEGR.PARTICOLARE DIRETTORE GEN. 
+
+Cesare Gigliozzi
+
+630000 - DIREZIONE GENERALE
+
+Maria Reale
+
+ 
+
+ 
+
+**2.** **NOMINA DIRETTORE ISTITUTO**
+
+Uffici e strutture della Direzione Centrale Gestione delle Risorse
+
+Dott.ssa Annalisa Gabrielli
+
+**651500 - DCGR UNITA CONTRATTI DI LAVORO (DCGRU)**
+
+**Responsabile Avv. Barbara Del Vecchio** 
+
+**Pisciotta Maria**
+
+ 
+
+ 
+
+**3.** **IMMATRICOLAZIONE e INSERIMENTO NSIP**
+
+651100 - DCGR UFFICIO GESTIONE RISORSE UMANE (UGRU)
+
+**Dirigente   Dott. Pierluigi Raimondi**
+
+**Inserimento Matricola Mirella Piellucci (651100 - DCGR UFFICIO GESTIONE RISORSE UMANE)**
+
+**Inserimento Nsip      Randazzo Anna Maria (651100 - DCGR UFFICIO GESTIONE RISORSE UMANE)** 
+
+ 
+
+ 
+
+# **REGOLAMENTO DEL PERSONALE**
+
+**Art. 15              (Nomina dei dirigenti e conferimento dell**'**incarico**)
+
+
+
+## **DECRETO ROF 12/03/2019**
+
+**Articolo 5           (Procedura di selezione del direttore di dipartimento)**
+
+**Articolo 8           (Modalità di nomina del consiglio scientifico di dipartimento)**
+
+**Articolo 10          (Procedura di selezione del direttore di istituto)**
+
+**Articolo 16          (Presidente dell'area territoriale di ricerca)**
+
+**Articolo 17          (Comitato di area)**
+
+**Articolo 19-bis      (Protezione dei dati personali)**
+
+ 
+
+ 
+
+# GESTIONE ISTITUTI 
+
+**(Angelo telefonata 02/04/2020)** 
 
 **GESTTIONE ISTITUTI    ->      ALBO (**https://www.urp.cnr.it/provvedimenti.php)    PERSONALE
 
