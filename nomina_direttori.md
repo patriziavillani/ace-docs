@@ -6,15 +6,11 @@
 
 # **GENERAZIONE PROVVEDIMENTO NOMINA DIRETTORE**
 
-Telefonata con Annamaria Randazzo (03/04/2020)
 
- 
 
 ## **RUOLI ISTITUZIONALI**
 
  
-
-**NSIP (fornito da Patrizia)**
 
 **SOTTO LA GESTIONE DELLA DIREZIONE CENTRALE -> ALBO**
 
