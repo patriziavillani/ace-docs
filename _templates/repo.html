@@ -15,7 +15,7 @@
   ~     along with this program.  If not, see <https://www.gnu.org/licenses/>.
   -->
 {% if theme_repo_url %}
-    {% set github_view_url = theme_repo_url + "blob/master/docs/" + pagename %}
+    {% set github_view_url = theme_repo_url + "blob/master/" + pagename %}
 {% endif %}
 <a href="{{ github_view_url }}{{ page_source_suffix }}" title="Visualizza la pagina" class="md-source" data-md-source="github">
     {% if theme_repo_type %}
