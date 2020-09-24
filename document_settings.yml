@@ -2,4 +2,11 @@
 document:
   name: "ACE – Anagrafica Centralizzata"
   description: "Il modulo software ACE gestisce le anagrafiche del CNR relativamente alle strutture, dati anagrafici del personale CNR (strutturato e non) e ruoli assegnati ad essi."
-
+  github_user: consiglionazionaledellericerche
+  github_repo: ace-docs
+  github_version: master
+  downloads:
+    - type: pdf
+      url: Manuale-ACE.pdf
+    - type: epub
+      url: Manuale-ACE.epub

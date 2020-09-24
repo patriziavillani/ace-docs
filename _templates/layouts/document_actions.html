@@ -7,9 +7,9 @@
     <div class="dropdown-menu w-100{{ '' if LOCAL else ' disabled' }}" aria-labelledby="downloads-dropdown" aria-disabled="{{ 'false' if LOCAL else 'true' }}">
       <div class="link-list-wrapper">
         <ul class="link-list">
-          {% for type, url in downloads %}
-          <a class="dropdown-item" href="{{ url }}" download>
-            {{ type }}
+          {% for download in docsitalia_data.document.downloads %}
+          <a class="dropdown-item" href="{{ download.url }}" download>
+            {{ download.type }}
           </a>
           {% if not loop.last %}
           <li>
@@ -30,8 +30,8 @@
     </a>
   </div>
   #}
-  {% if github_user and page_source_suffix %}
-    {% set github_url = "https://github.com/" + github_user + "/" + github_repo + "/blob/" + github_version + conf_py_path + pagename + page_source_suffix %}
+  {% if docsitalia_data.document.github_user and page_source_suffix %}
+    {% set github_url = "https://github.com/" + docsitalia_data.document.github_user + "/" + docsitalia_data.document.github_repo + "/blob/" + docsitalia_data.document.github_version + "/" + pagename + page_source_suffix %}
   {% endif %}
   <div class="p-3 px-md-2 py-md-0">
     <a href="{{ github_url | default('#') }}" role="button" class="btn p-2{{ '' if github_url else ' disabled' }}" aria-disabled="{{ 'false' if github_url else 'true' }}">
