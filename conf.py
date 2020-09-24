@@ -25,6 +25,7 @@ source_parsers = {
 project = 'Anagrafica CEntralizzata'
 release = '1.0.0'
 author = u'Consiglio Nazionale delle Ricerche'
+github_user='consiglionazionaledellericerche'
 
 show_authors = True
 # Grouping the document tree into LaTeX files. List of tuples
@@ -52,7 +53,6 @@ html_show_sourcelink = False
 html_favicon = "favicon.ico"
 html_logo = "logo.png"
 latex_logo = 'logo.png'
-#html_title = "Home"
 smartquotes = False
 language = "it"
 # The master toctree document.
