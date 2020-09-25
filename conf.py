@@ -40,14 +40,7 @@ epub_basename = u'Manuale-ACE'
 
 html_theme = "docs_italia_theme"
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
-
-# Choose the material theme
-#html_theme = 'sphinx_material'
-#html_theme = 'sphinx_materialdesign_theme'
-# Get the them path
-#html_theme_path = sphinx_material.html_theme_path()
-# Register the required helpers for the html context
-#html_context = sphinx_material.get_html_context()
+html_title = "Anagrafica CEntralizzata"
 copyright = "2020 Consiglio Nazionale delle Ricerche"
 html_show_sourcelink = False
 html_favicon = "favicon.ico"
